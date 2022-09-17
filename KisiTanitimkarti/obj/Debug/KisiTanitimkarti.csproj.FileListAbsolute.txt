@@ -1,0 +1,7 @@
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\obj\Debug\KisiTanitimkarti.csproj.AssemblyReference.cache
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\obj\Debug\KisiTanitimkarti.csproj.CoreCompileInputs.cache
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\bin\Debug\KisiTanitimkarti.exe.config
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\bin\Debug\KisiTanitimkarti.exe
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\bin\Debug\KisiTanitimkarti.pdb
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\obj\Debug\KisiTanitimkarti.exe
+C:\Users\Mutfak Robotu\source\repos\KisiTanitimkarti\KisiTanitimkarti\obj\Debug\KisiTanitimkarti.pdb
